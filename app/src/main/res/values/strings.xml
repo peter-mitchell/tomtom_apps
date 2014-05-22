@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TVG360Chaser</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyCV3RP8q9akvQk-B40OYpswmOY85r0sbOo</string>
+    <string name="button_chase">Locate</string>
+    <string name="button_nav">Route</string>
+    <string name="switch_beacon">Beacon</string>
+    <string name="edit_text">Enter Device ID</string>
+    <string name="title_activity_device__list">Select Asset</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
